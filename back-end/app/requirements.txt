@@ -1,0 +1,9 @@
+fastapi==0.99.1
+fastapi-jwt-auth==0.5.0
+fastapi-jwt-auth[asymmetric]
+pydantic
+pydantic[email]
+bcrypt
+pymongo
+passlib
+uvicorn
