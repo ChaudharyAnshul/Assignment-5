@@ -1,0 +1,6 @@
+snowflake-connector-python
+uvicorn
+python-jose
+fastapi==0.99.1
+pydantic
+pymongo

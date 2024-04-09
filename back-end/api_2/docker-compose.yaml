@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  fastapi_2:
+    container_name: fastapi_2
+    build: 
+      context: .
+    ports:
+      - "8001:8001"
+
+
