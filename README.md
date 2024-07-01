@@ -2,6 +2,8 @@
 
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1YvvKu38ZeIrlWY-Pgls1Gwes7ZaCuarZ1gx1VVb-qKI#0)
+
+# not live currently
 - Airflow: https://34.139.115.254:8080
 - Authentication Service: https://34.23.189.28:8000
 - Fast API_1: https://34.23.189.28:8000
@@ -154,10 +156,3 @@ CodeLab - [Documentation](https://docs.google.com/document/d/1YvvKu38ZeIrlWY-Pgl
 - https://aws.amazon.com/
 - https://app.snowflake.com/
 - https://www.sqlalchemy.org/
-
-  
-  Name | Contribution %| Contributions |
-  --- |--- | --- |
-  Anshul Chaudhary  | 35% | Streamlit, Airflow, Hosting, Docker|
-  Agash Uthayasuriyan | 32% | API_1, Data extraction, Docker|
-  Narayani Arun Patil | 33% | API_2, Authentication service, MongoDB setup, Docker|
