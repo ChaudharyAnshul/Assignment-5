@@ -1,7 +1,7 @@
 # PDF Data Extraction
 
 ## Live application Links
-[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1YvvKu38ZeIrlWY-Pgls1Gwes7ZaCuarZ1gx1VVb-qKI#0)
+[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1VRrWsgyPGVALA4LzS7HzIb4fkQAdxebB1ieDach9PgU#0)
 
 ### Not Live Currently
 - Airflow: https://34.139.115.254:8080
@@ -148,7 +148,7 @@ Dockerize API services and streamlit application.
 
 ## Project run outline
 
-CodeLab - [Documentation](https://docs.google.com/document/d/1YvvKu38ZeIrlWY-Pgls1Gwes7ZaCuarZ1gx1VVb-qKI/edit#heading=h.iq9nlyp04yle) 
+CodeLab - [Documentation](https://codelabs-preview.appspot.com/?file_id=1VRrWsgyPGVALA4LzS7HzIb4fkQAdxebB1ieDach9PgU#0) 
 
 ## References
 
