@@ -32,7 +32,7 @@ Dockerize API services and streamlit application.
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 
 ## Architecture Diagram
-<img src="Architecture Diagram.png">
+<img src="architectire diagram\Architecture Diagram.png">
 
 ## Pre requisites
 1. Python Knowledge
